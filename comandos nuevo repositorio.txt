@@ -1,0 +1,13 @@
+git config --global user.name "cami-pedreros"
+git config --global user.email cami1234pedreros@gmail.com
+git config --list 
+git init
+git remote add origin (pegas el link)
+
+
+
+
+git add .
+git commit -m "agregando primer archivo"
+git push -u origin master (solo primera vez)
+

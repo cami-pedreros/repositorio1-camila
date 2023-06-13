@@ -5,7 +5,9 @@
 .tituloPrincipal {
     color: aqua;
     font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .link1{
     text-decoration: none;
+    color: brown;
 }
