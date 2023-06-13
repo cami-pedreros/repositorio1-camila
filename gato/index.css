@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(114, 122, 122);
+
+}
+.tituloPrincipal {
+    color: aqua;
+    font-size: 50px;
+}
+.link1{
+    text-decoration: none;
+}
